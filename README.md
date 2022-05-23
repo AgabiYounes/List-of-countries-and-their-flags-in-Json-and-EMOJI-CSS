@@ -8,7 +8,7 @@ Json file that contains the list of all countries in the world with their flags 
 
 ## Installation
 
-To install it in your project, you must use the CDN version of [Emoji CSS library](https://emoji-css.afeld.me/), or you can download the Emoji CSS file and insert it directly in your project (the CSS file is available in this repository).
+To install it in your project, you can use the CDN version of [Emoji CSS library](https://emoji-css.afeld.me/), or you can download the Emoji CSS file and insert it directly in your project (the CSS file is available in this repository).
 
 ## Usage
 
